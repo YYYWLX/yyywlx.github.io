@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Linxuan WANG's Homepage"
-description              : "This is Linxuan WANG's Homepage"
+description              : #""
 repository               : "YYYWLX/yyywlx.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ google_scholar_stats_use_cdn : false
 
 # Site Author
 author:
-  name             : "Linxuan WANG"
+  name             : "Linxuan WANG | 王琳轩"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Renmin University of China"
   location         : "Beijing, China"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/linxuan-wang-5458b636b/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
